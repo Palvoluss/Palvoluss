@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**Palvoluss/Palvoluss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pablo Micheletti, actually i'm a Full-Stack developer student @start2impact!
 
-Here are some ideas to get you started:
+Here you can see my actual progress:
+```
+📚 To Study | 📖 Studying | 💻 Coding a Project | 📦 Project Done
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📦 Html e Css
+- 📦 JavaScript
+- 📦 [JavaScript Advanced](https://github.com/Palvoluss/JavascriptAdvanced) 
+- 📚 React 
+- 📚 Angular
+- 📚 Vue.js
+- 📚 PHP
+- 📚 MySQL
+- 📚 Wordpress
+- 💻 [Node.js](https://github.com/Palvoluss/App-Journey-1)
+- 💻 MongoDB
+- 📚 DevOps
+
+How to Reach me ⤵️
+- Instagram - [@pablomicheletti](https://www.instagram.com/pablomicheletti/)
+- Mail - <pablomctt@gmail.com>
+- Website - [PabloMicheletti](http://pablomicheletti.it)
