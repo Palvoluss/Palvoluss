@@ -1,6 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
-I'm Pablo Micheletti, actually i'm a Full-Stack developer student @start2impact!
+### I'm Pablo Micheletti, actually i'm a Full-Stack developer student @start2impact!
+
+---
 
 Here you can see my actual progress:
 ```
@@ -19,6 +21,8 @@ Here you can see my actual progress:
 - 💻 [Node.js](https://github.com/Palvoluss/App-Journey-1)
 - 💻 MongoDB
 - 📚 DevOps
+
+---
 
 How to Reach me ⤵️
 - Instagram - [@pablomicheletti](https://www.instagram.com/pablomicheletti/)
