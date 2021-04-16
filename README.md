@@ -12,13 +12,13 @@ Here you can see my actual progress:
 - 📦 JavaScript
 - 📦 [JavaScript Advanced](https://github.com/Palvoluss/JavascriptAdvanced) 
 - 📚 React 
-- 📚 Angular
+- 📖 Angular
 - 📚 Vue.js
 - 📚 PHP
 - 📚 MySQL
 - 📚 Wordpress
-- 💻 [Node.js](https://github.com/Palvoluss/App-Journey-1)
-- 💻 MongoDB
+- 📦 [Node.js](https://github.com/Palvoluss/App-Journey-1)
+- 📦 [MongoDB](https://github.com/Palvoluss/App-Journey-1)
 - 📚 DevOps
 
 ---
