@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 🙋</h1>
-<h3 align="center">I'm Pablo Micheletti, actually i'm a Full-Stack developer student @start2impact!</h3>
+<h3 align="center">I'm Pablo Micheletti, actually i'm a Full-Stack developer student @start2impact and a draft Developer for Hastega </h3>
 
 ---
 
