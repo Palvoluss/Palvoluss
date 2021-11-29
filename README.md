@@ -13,7 +13,7 @@ Here you can see my actual progress:
 - 📦 [JavaScript Advanced](https://github.com/Palvoluss/JavascriptAdvanced) 
 - 📚 React 
 - 📖 Angular
-- 📚 Vue.js
+- 📖 Vue.js
 - 📚 PHP
 - 📚 MySQL
 - 📚 Wordpress
