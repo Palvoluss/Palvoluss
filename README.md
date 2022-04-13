@@ -19,11 +19,11 @@ Here you can see my actual progress:
 - 📚 MySQL
 - 📚 Wordpress
 - 📦🛠 [Node.js](https://github.com/Palvoluss/App-Journey-1)
-- 📦 [MongoDB](https://github.com/Palvoluss/App-Journey-1)
+- 📦📖 [MongoDB](https://github.com/Palvoluss/App-Journey-1) - Djnogo
 - 📖 DevOps
 - 📖 Blockchain
 - 📦 Python
-- 💻 [Django & Redis](https://github.com/Palvoluss/Django-Redis-web3)
+- 📦 [Django & Redis](https://github.com/Palvoluss/Django-Redis-web3)
 - 📚 Ethereum Web3
 
 ---
