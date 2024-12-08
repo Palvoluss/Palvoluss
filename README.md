@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there!</h1>
 <h3 align="center">I'm Pablo Micheletti</h3>
-<h4 align="center">A Full-Stack Developer at Hastega and Blockchain Developer Student at @start2impact 🚀</h4>
+<h4 align="center">A Full-Stack Developer at Hastega and much more in outher world 🚀</h4>
 
 ---
 
